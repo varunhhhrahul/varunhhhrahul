@@ -42,7 +42,7 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 - 📫 Reach me: **Email me at - varunhhhrahul@gmail.com**
 
-- ⚡ Fun fact: **People Change**
+- ⚡ Fun fact: **People Change!**
 
 <br/>
 
