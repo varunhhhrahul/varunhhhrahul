@@ -55,7 +55,7 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 ## Languages
 
-<div style="display:flex;flex-direction:row">
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;">
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -68,7 +68,7 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 ## Skills
 
-<div style="display:flex;flex-direction:row;flex-wrap:wrap;">
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;flex-wrap:wrap;">
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -93,7 +93,7 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 ## Tools
 
-<div style="display:flex;flex-direction:row">
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;">
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -108,7 +108,7 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 ## Databases
 
-<div style="display:flex;flex-direction:row">
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;">
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -120,7 +120,8 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 ## Contact Me
 
-<div style="display:inline-flex;flex-direction:row">
+<div style="display:inline-flex;flex-direction:row; justify-content:center; align-items:center;flex-wrap:wrap;">
+
 <a style="margin-right:0.5rem" href="https://twitter.com/varunramnani5" target="blank"><img src="https://img.shields.io/badge/varun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="varunramnani" /></a>
 
 <a style="margin-right:0.5rem" href="https://www.linkedin.com/in/varun-ramnani-878653146/" target="blank"><img src="https://img.shields.io/badge/Varun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="varunramnani" /></a>
