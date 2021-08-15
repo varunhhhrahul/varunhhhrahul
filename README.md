@@ -9,9 +9,10 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 <br/>
 
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunhhhrahul&theme=dark" alt="varunhhhrahul" /></p>
+
 <p align="center" style="margin-right:0.5rem;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=varunhhhrahul&count_private=true&show_icons=true&theme=dark" alt="varunhhhrahul" /></p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunhhhrahul&theme=dark" alt="varunhhhrahul" /></p>
 
 <br/>
 
