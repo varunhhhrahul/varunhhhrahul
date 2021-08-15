@@ -24,7 +24,7 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 - I am a **4th Year Computer Science Undergraduate** student at Manipal University Jaipur.
 - Full-Stack Intern at **Zyla Health**.
-- Former itern at **Codemath** and **Sparks Foundation**.
+- Former intern at **Codemath** and **Sparks Foundation**.
 - Winner of **HackCoVIT 2020**, Finalists at **SAP Labs Semicolon Hackathon**.
 - Worked on projects - WellPass, Wisdom Of Crowd, Blockchain based product verification, Gamers World, Apni Shiksha.
 
