@@ -1,9 +1,9 @@
 <h1 align="center"> 
-<div style="display:flex;justify-content:space-between; align-items:center;margin:2rem 0rem;">
+<div style="display:flex;justify-content:space-between; align-items:center;margin:2rem 0rem; flex-direction:row;">
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=varunhhhrahul&label=Profile%20views&color=db2814&style=flat" alt="varunhhhrahul" /> </p>
 
-<div style="display:flex;justify-content:center; align-items:center;">
+<div style="display:flex;justify-content:center; align-items:center; flex-direction:row;">
 <p align="right" style="margin-right:0.5rem"> <a href="https://twitter.com/varunramnani5" target="blank"><img src="https://img.shields.io/badge/varun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="varunramnani" /></a> </p>
 
 <p align="right" style="margin-right:0.5rem"> <a href="https://www.linkedin.com/in/varun-ramnani-878653146/" target="blank"><img src="https://img.shields.io/badge/Varun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="varunramnani" /></a> 
