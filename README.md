@@ -120,13 +120,13 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 ## Contact Me
 
-<div style="display:flex;justify-content:flex-start; align-items:center; flex-direction:row;">
-<p align="right" style="margin-right:0.5rem"> <a href="https://twitter.com/varunramnani5" target="blank"><img src="https://img.shields.io/badge/varun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="varunramnani" /></a> </p>
+<div style="display:flex;flex-direction:row">
+<a style="margin-right:0.5rem" href="https://twitter.com/varunramnani5" target="blank"><img src="https://img.shields.io/badge/varun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="varunramnani" /></a>
 
-<p align="right" style="margin-right:0.5rem"> <a href="https://www.linkedin.com/in/varun-ramnani-878653146/" target="blank"><img src="https://img.shields.io/badge/Varun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="varunramnani" /></a> 
-</p>
+<a style="margin-right:0.5rem" href="https://www.linkedin.com/in/varun-ramnani-878653146/" target="blank"><img src="https://img.shields.io/badge/Varun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="varunramnani" /></a>
 
-<p align="right" style="margin-right:0.5rem"> <a href="mailto:varunhhhrahul@gmail.com" target="blank"><img src="https://img.shields.io/badge/Varun-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="varunramnani" /></a> </p>
+<a style="margin-right:0.5rem" href="mailto:varunhhhrahul@gmail.com" target="blank"><img src="https://img.shields.io/badge/Varun-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="varunramnani" /></a>
 
-<p align="right"> <a href="https://www.youtube.com/channel/UCcUvjuYWMDaxyARIRVURlOw" target="blank"><img src="https://img.shields.io/badge/Varun-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="varunramnani" /></a> </p>
+<a href="https://www.youtube.com/channel/UCcUvjuYWMDaxyARIRVURlOw" target="blank"><img src="https://img.shields.io/badge/Varun-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="varunramnani" /></a>
+
 </div>
