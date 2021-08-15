@@ -113,7 +113,7 @@ Hi 👋, I'm Varun Ramnani</h1>
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+    <img  src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
 </div>
 
 <br/>
@@ -122,12 +122,12 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 <div style="display:inline-flex;flex-direction:row; justify-content:center; align-items:center;flex-wrap:wrap;">
 
-<a style="margin-right:0.5rem" href="https://twitter.com/varunramnani5" target="blank"><img src="https://img.shields.io/badge/varun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="varunramnani" /></a>
+[![varunramnani](https://img.shields.io/badge/varun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/varunramnani5)
 
-<a style="margin-right:0.5rem" href="https://www.linkedin.com/in/varun-ramnani-878653146/" target="blank"><img src="https://img.shields.io/badge/Varun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="varunramnani" /></a>
+[![varunramnani](https://img.shields.io/badge/Varun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-ramnani-878653146/)
 
-<a style="margin-right:0.5rem" href="mailto:varunhhhrahul@gmail.com" target="blank"><img src="https://img.shields.io/badge/Varun-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="varunramnani" /></a>
+[![varunramnani](https://img.shields.io/badge/Varun-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunhhhrahul@gmail.com)
 
-<a href="https://www.youtube.com/channel/UCcUvjuYWMDaxyARIRVURlOw" target="blank"><img src="https://img.shields.io/badge/Varun-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="varunramnani" /></a>
+[![varunramnani](https://img.shields.io/badge/Varun-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcUvjuYWMDaxyARIRVURlOw)
 
 </div>
