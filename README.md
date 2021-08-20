@@ -14,8 +14,6 @@ Hi 👋, I'm Varun Ramnani</h1>
 <p align="center" style="margin-right:0.5rem;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=varunhhhrahul&count_private=true&show_icons=true&theme=dark" alt="varunhhhrahul" /></p>
 
 
-<br/>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunhhhrahul&show_icons=true&theme=dark&locale=en&layout=compact" alt="varunhhhrahul" /></p>
 
 <br/>
