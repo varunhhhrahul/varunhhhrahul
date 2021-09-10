@@ -47,7 +47,8 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 <p ><img align="center" src="https://activity-graph.herokuapp.com/graph?username=varunhhhrahul&theme=react-dark" alt="varunhhhrahul" /></p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/varunhhhrahul/varunhhhrahul/output/github-contribution-grid-snake.svg)
+<p ><img align="center" src="https://raw.githubusercontent.com/varunhhhrahul/varunhhhrahul/output/github-contribution-grid-snake.svg" alt="varunhhhrahul" /></p>
+
 
 <br/>
 
