@@ -52,19 +52,16 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 <br/>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+<br/>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunhhhrahul&theme=dark" alt="varunhhhrahul" /></a> </p>
 
 <br/>
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   32 hrs 5 mins   █████████████████████▓░░░   86.41 % 
-CSS          2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-YAML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Java         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-```
-<!--END_SECTION:waka-->
+
 
 ## Languages
 
