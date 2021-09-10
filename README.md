@@ -56,6 +56,9 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Languages
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;">
