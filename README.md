@@ -54,7 +54,7 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 18 mins   █████████████████████████   99.43 % 
+
 ```
 <!--END_SECTION:waka-->
 
