@@ -54,7 +54,7 @@ Hi 👋, I'm Varun Ramnani</h1>
 
 <!--START_SECTION:waka-->
 ```text
-
+Dart   3 mins          ████████████████████▓░░░░   82.05 % 
 ```
 <!--END_SECTION:waka-->
 
