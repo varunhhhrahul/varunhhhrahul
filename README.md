@@ -2,8 +2,8 @@
 <div style="display:flex;justify-content:space-between; align-items:center;margin:2rem 0rem; flex-direction:row;">
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=varunhhhrahul&label=Profile%20views&color=db2814&style=flat" alt="varunhhhrahul" /> </p>
-
 </div>
+ 
 Hi 👋, I'm Varun Ramnani</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
