@@ -22,7 +22,7 @@ Hi 👋, I'm Varun Ramnani</h1>
 ## Experience
 
 - I am a **Final Year Computer Science Undergraduate** student at Manipal University Jaipur.
-- Full-Stack Intern at **EagleOwl**.
+- SDE Intern at **EagleOwl**.
 - Former intern at **Zyla Health**, **Codemath** and **Sparks Foundation**.
 - Winner of **HackCoVIT 2020**, Finalists at **SAP Labs Semicolon Hackathon**.
 - Worked on projects - WellPass, Wisdom Of Crowd, Blockchain based product verification, Gamers World, Apni Shiksha.
