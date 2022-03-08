@@ -55,12 +55,12 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 <!--START_SECTION:waka-->
 
 ```text
-Dart         10 hrs 10 mins  █████████████████████▒░░░   84.73 %
-Groovy       38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-XML          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Dart         11 hrs 12 mins  ███████████████████████▓░   95.18 %
+Python       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+C++          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+EJS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
