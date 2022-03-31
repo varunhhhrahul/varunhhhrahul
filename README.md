@@ -55,11 +55,11 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 <!--START_SECTION:waka-->
 
 ```text
-Dart         18 hrs 27 mins  ██████████████████░░░░░░░   71.87 %
-TypeScript   5 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-JavaScript   58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Java         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Dart         20 hrs 41 mins  ████████████████████▒░░░░   81.98 %
+TypeScript   3 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Java         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
