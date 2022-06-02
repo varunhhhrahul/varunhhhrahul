@@ -4,7 +4,7 @@
  <img src="https://komarev.com/ghpvc/?username=varunhhhrahul&label=Profile%20views&color=db2814&style=flat" alt="varunhhhrahul" /> </p>
 </div>
  
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Varun Ramnani</h1>
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />, I'm Varun Ramnani</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <br/>
