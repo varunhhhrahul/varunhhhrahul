@@ -55,11 +55,11 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   17 hrs 44 mins  ████████████████▓░░░░░░░░   66.86 %
-HTML         5 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-JavaScript   2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-SCSS         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+TypeScript   18 hrs 29 mins  █████████████████░░░░░░░░   67.97 %
+HTML         5 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
+JavaScript   2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+SCSS         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 Pug          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
