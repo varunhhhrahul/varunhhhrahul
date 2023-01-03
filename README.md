@@ -9,7 +9,10 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 
 <br/>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunhhhrahul&theme=dark" alt="varunhhhrahul" /></p>
+<p align="center" >
+<!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunhhhrahul&theme=dark" alt="varunhhhrahul" /> -->
+ <img align="center" src="https://streak-stats.demolab.com?user=varunhhhrahul&theme=dark&border_radius=5.1" alt="varunhhhrahul" />
+</p>
 
 <p align="center" style="margin-right:0.5rem;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=varunhhhrahul&count_private=true&show_icons=true&theme=dark" alt="varunhhhrahul" /></p>
 
