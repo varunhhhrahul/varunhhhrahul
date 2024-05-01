@@ -49,7 +49,7 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 
 <br/>
 
-<p ><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=varunhhhrahul&theme=react-dark" alt="varunhhhrahul" /></p>
+<p ><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=varunhhhrahul&theme=react-dark" alt="varunhhhrahul" /></p>
 
 <p align="center"><img align="center" src="https://github.com/varunhhhrahul/varunhhhrahul/blob/output/github-contribution-grid-snake.svg" alt="varunhhhrahul" /></p>
 
