@@ -95,6 +95,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;flex-wrap:wrap;">
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img style="margin-right:0.5rem" src="https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=FFFFFF" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img style="margin-right:0.5rem" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
